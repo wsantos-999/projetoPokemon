@@ -19,20 +19,21 @@ body {
 }
 
 .pokemon-card {
-    width: 350px;
+    width: 400px;
     border-radius: 15px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     margin-bottom: 30px;
     transition: all 0.3s ease;
+    background-color: #333;
 }
 
 
 .pokemon-image {
-    padding: 20px;
+    padding: 30px;
     display: flex;
     justify-content: center;
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgb(219, 219, 87);
 }
 
 .pokemon-image img {
